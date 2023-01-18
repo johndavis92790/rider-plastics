@@ -1,0 +1,5 @@
+trek24.sv.av.com riderplastics.com - [29/Mar/2003:00:42:58 -0800] "GET /robots.txt HTTP/1.1" 404 216 "-" "Scooter/3.2"
+trek24.sv.av.com riderplastics.com - [29/Mar/2003:00:42:59 -0800] "GET /cgi-bin/ HTTP/1.1" 403 218 "-" "Scooter/3.2"
+trek24.sv.av.com riderplastics.com - [29/Mar/2003:02:38:26 -0800] "GET /robots.txt HTTP/1.1" 404 216 "-" "Scooter/3.2"
+trek24.sv.av.com riderplastics.com - [29/Mar/2003:02:38:26 -0800] "GET /logs/ HTTP/1.1" 401 409 "-" "Scooter/3.2"
+cr006r01.sac2.fastsearch.net riderplastics.com - [29/Mar/2003:03:38:32 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "FAST-WebCrawler/3.8 (atw-crawler at fast dot no; http://fast.no/support/crawler.asp)"

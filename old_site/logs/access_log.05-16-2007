@@ -1,0 +1,4 @@
+63.123.238.8 riderplastics.com - [16/May/2007:15:32:46 -0700] "GET /robots.txt HTTP/1.1" 404 208 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+63.123.238.8 riderplastics.com - [16/May/2007:15:32:47 -0700] "GET / HTTP/1.1" 200 596 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+66-194-6-84.static.twtelecom.net riderplastics.com - [16/May/2007:17:06:24 -0700] "GET / HTTP/1.1" 200 596 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312460)"
+66-194-6-75.static.twtelecom.net riderplastics.com - [16/May/2007:22:14:44 -0700] "GET / HTTP/1.1" 200 596 "-" "Mozilla/5.0 (compatible; Konqueror/3.1-rc1; i686 Linux; 20020705)"

@@ -1,0 +1,5 @@
+data1.only.com riderplastics.com - [18/Mar/2002:08:46:34 -0800] "HEAD / HTTP/1.0" 200 0 "-" "LWP::Simple/5.53"
+data1.only.com riderplastics.com - [18/Mar/2002:08:46:34 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Spida/0.1"
+data1.only.com riderplastics.com - [18/Mar/2002:08:46:34 -0800] "HEAD / HTTP/1.0" 200 0 "-" "Spida/0.1"
+data1.only.com riderplastics.com - [18/Mar/2002:08:46:34 -0800] "HEAD / HTTP/1.0" 200 0 "-" "LWP::Simple/5.53"
+data1.only.com riderplastics.com - [18/Mar/2002:08:46:34 -0800] "GET / HTTP/1.0" 200 802 "-" "Spida/0.1"

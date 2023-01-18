@@ -1,0 +1,5 @@
+si1001.inktomisearch.com riderplastics.com - [28/Feb/2004:08:38:41 -0800] "GET /robots.txt HTTP/1.0" 404 208 "-" "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"
+j3116.inktomisearch.com riderplastics.com - [28/Feb/2004:08:40:43 -0800] "GET /urchin HTTP/1.0" 301 244 "-" "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"
+j3116.inktomisearch.com riderplastics.com - [28/Feb/2004:08:42:03 -0800] "GET /urchin/ HTTP/1.0" 200 43745 "-" "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"
+j3116.inktomisearch.com riderplastics.com - [28/Feb/2004:08:43:04 -0800] "GET /urchin/200402/nav.html HTTP/1.0" 200 1533 "-" "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"
+j3116.inktomisearch.com riderplastics.com - [28/Feb/2004:08:43:40 -0800] "GET /urchin/200402/welcome.html HTTP/1.0" 200 504 "-" "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"

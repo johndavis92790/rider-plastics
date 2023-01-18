@@ -1,0 +1,5 @@
+cr006r01.sac2.fastsearch.net riderplastics.com - [08/May/2002:16:16:34 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "FAST-WebCrawler/3.5 (atw-crawler at fast dot no; http://fast.no/support/crawler.asp)"
+j100.inktomi.com riderplastics.com - [08/May/2002:22:01:11 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+j100.inktomi.com riderplastics.com - [08/May/2002:22:01:11 -0700] "GET / HTTP/1.0" 200 802 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+si520.inktomi.com riderplastics.com - [08/May/2002:22:56:47 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+si520.inktomi.com riderplastics.com - [08/May/2002:22:56:48 -0700] "GET / HTTP/1.0" 200 802 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"

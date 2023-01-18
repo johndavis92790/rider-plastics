@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Shadowbox.js Media Viewer</title>
+
+<link rel="stylesheet" type="text/css" href="js/doc/css/style.css">
+
+<!-- the following two lines are only required for the demos -->
+<script type="text/javascript" src="js/doc/demo.js"></script>
+<script type="text/javascript" src="js/src/adapter/shadowbox-base.js"></script>
+<script type="text/javascript" src="js/src/shadowbox.js"></script>
+<script type="text/javascript">
+
+Shadowbox.loadSkin('classic', 'js/src/skin');
+Shadowbox.loadLanguage('en', 'js/src/lang');
+Shadowbox.loadPlayer(['flv', 'html', 'iframe', 'img', 'qt', 'swf', 'wmp'], 'js/src/player');
+
+window.onload = function(){
+    Shadowbox.init();
+};
+
+</script>
+</head>
+
+<body>
+
+<div id="wrapper">
+    <div id="content">
+        <div id="header">
+            <div id="version"></div>
+            <h1><a name="top">Shadowbox.js</a> </h1>
+            <span>by <a href="http://www.mjijackson.com">Michael J. I. Jackson</a></span>
+        </div>
+        <h3>Flash</h3>
+        <p>
+            <a rel="shadowbox;width=600;height=450" class="option" title="Alien" href="gallery/alien.flv">Flash Video</a>
+        </p>
+    </div>
+</div>
+
+</body>
+</html>

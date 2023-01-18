@@ -1,0 +1,5 @@
+crawl28-public.alexa.com riderplastics.com - [26/Dec/2004:08:20:50 -0800] "GET /Picture_0720.JPG HTTP/1.0" 200 145290 "-" "ia_archiver"
+68.142.251.157 riderplastics.com - [26/Dec/2004:15:15:59 -0800] "GET /robots.txt HTTP/1.0" 404 208 "-" "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"
+68.142.249.25 riderplastics.com - [26/Dec/2004:15:22:51 -0800] "GET /urchin/200310/welcome.html HTTP/1.0" 200 504 "-" "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"
+crawl28-public.alexa.com riderplastics.com - [26/Dec/2004:20:03:37 -0800] "GET /robots.txt HTTP/1.0" 404 208 "-" "ia_archiver"
+crawl28-public.alexa.com riderplastics.com - [26/Dec/2004:20:03:37 -0800] "GET /Picture_0833.JPG HTTP/1.0" 200 187721 "-" "ia_archiver"

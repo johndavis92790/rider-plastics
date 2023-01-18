@@ -1,0 +1,6 @@
+copilot.thunderstone.com riderplastics.com - [22/Mar/2003:03:29:54 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/2.0 (compatible; T-H-U-N-D-E-R-S-T-O-N-E)"
+copilot.thunderstone.com riderplastics.com - [22/Mar/2003:03:29:54 -0800] "GET / HTTP/1.0" 200 802 "-" "Mozilla/2.0 (compatible; T-H-U-N-D-E-R-S-T-O-N-E)"
+copilot.thunderstone.com riderplastics.com - [22/Mar/2003:03:29:54 -0800] "GET /logs/ HTTP/1.0" 401 397 "-" "Mozilla/2.0 (compatible; T-H-U-N-D-E-R-S-T-O-N-E)"
+copilot.thunderstone.com riderplastics.com - [22/Mar/2003:03:30:00 -0800] "GET /urchin/ HTTP/1.0" 200 43129 "-" "Mozilla/2.0 (compatible; T-H-U-N-D-E-R-S-T-O-N-E)"
+copilot.thunderstone.com riderplastics.com - [22/Mar/2003:03:30:01 -0800] "GET /urchin/200303/nav.html HTTP/1.0" 200 1530 "-" "Mozilla/2.0 (compatible; T-H-U-N-D-E-R-S-T-O-N-E)"
+copilot.thunderstone.com riderplastics.com - [22/Mar/2003:03:30:01 -0800] "GET /urchin/200303/welcome.html HTTP/1.0" 200 504 "-" "Mozilla/2.0 (compatible; T-H-U-N-D-E-R-S-T-O-N-E)"

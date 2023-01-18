@@ -1,0 +1,3 @@
+cr006r01.sac2.fastsearch.net riderplastics.com - [08/Dec/2002:08:42:58 -0800] "GET / HTTP/1.0" 200 802 "-" "FAST-WebCrawler/3.6 (atw-crawler at fast dot no; http://fast.no/support/crawler.asp)"
+crawl7.googlebot.com riderplastics.com - [08/Dec/2002:10:49:56 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Googlebot/2.1 (+http://www.googlebot.com/bot.html)"
+crawl7.googlebot.com riderplastics.com - [08/Dec/2002:10:49:56 -0800] "GET / HTTP/1.0" 200 802 "-" "Googlebot/2.1 (+http://www.googlebot.com/bot.html)"

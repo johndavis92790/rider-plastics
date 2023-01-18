@@ -1,0 +1,6 @@
+crawl24-public.alexa.com riderplastics.com - [13/May/2003:07:12:40 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "ia_archiver"
+crawl24-public.alexa.com riderplastics.com - [13/May/2003:07:12:40 -0700] "GET /urchin/200302/nav.html HTTP/1.0" 200 1533 "-" "ia_archiver"
+crawl22-public.alexa.com riderplastics.com - [13/May/2003:07:15:06 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "ia_archiver"
+crawl22-public.alexa.com riderplastics.com - [13/May/2003:07:15:06 -0700] "GET /urchin/200303/nav.html HTTP/1.0" 200 1530 "-" "ia_archiver"
+crawl11-public.alexa.com riderplastics.com - [13/May/2003:07:23:38 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "ia_archiver"
+crawl11-public.alexa.com riderplastics.com - [13/May/2003:07:23:38 -0700] "GET /urchin/200304/nav.html HTTP/1.0" 200 1530 "-" "ia_archiver"

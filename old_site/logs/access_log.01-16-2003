@@ -1,0 +1,8 @@
+crawl16-public.alexa.com riderplastics.com - [16/Jan/2003:00:07:11 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "ia_archiver"
+crawl16-public.alexa.com riderplastics.com - [16/Jan/2003:00:07:15 -0800] "GET /urchin/uicons/hbar.gif HTTP/1.0" 200 42 "-" "ia_archiver"
+crawl16-public.alexa.com riderplastics.com - [16/Jan/2003:00:12:54 -0800] "GET /urchin/uicons/rarrow.gif HTTP/1.0" 200 181 "-" "ia_archiver"
+crawl16-public.alexa.com riderplastics.com - [16/Jan/2003:00:13:37 -0800] "GET /urchin/vbar1.gif HTTP/1.0" 404 210 "-" "ia_archiver"
+crawl16-public.alexa.com riderplastics.com - [16/Jan/2003:00:14:57 -0800] "GET /urchin/bb61.gif HTTP/1.0" 404 209 "-" "ia_archiver"
+crawl16-public.alexa.com riderplastics.com - [16/Jan/2003:00:15:41 -0800] "GET /urchin/uicons/ndot5.gif HTTP/1.0" 200 957 "-" "ia_archiver"
+si520.inktomi.com riderplastics.com - [16/Jan/2003:01:55:53 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+si520.inktomi.com riderplastics.com - [16/Jan/2003:01:55:53 -0800] "GET / HTTP/1.0" 200 802 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"

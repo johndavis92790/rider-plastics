@@ -1,0 +1,4 @@
+170-20-231-200.cbs.com riderplastics.com - [27/Jan/2002:20:06:30 -0800] "GET /icons/back.gif HTTP/1.1" 200 216 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 5.5; Windows 95)"
+170-20-231-200.cbs.com riderplastics.com - [27/Jan/2002:20:06:33 -0800] "GET / HTTP/1.1" 200 814 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 5.5; Windows 95)"
+170-20-231-200.cbs.com riderplastics.com - [27/Jan/2002:20:06:33 -0800] "GET /icons/back.gif HTTP/1.1" 304 - "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 5.5; Windows 95)"
+170-20-231-200.cbs.com riderplastics.com - [27/Jan/2002:20:06:37 -0800] "GET /cgi-bin/ HTTP/1.1" 403 218 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 5.5; Windows 95)"

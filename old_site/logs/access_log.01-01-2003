@@ -1,0 +1,4 @@
+kitchener-hse-ppp3577578.sympatico.ca riderplastics.com - [01/Jan/2003:22:30:17 -0800] "GET / HTTP/1.0" 200 802 "-" "-"
+kitchener-hse-ppp3577578.sympatico.ca riderplastics.com - [01/Jan/2003:22:30:22 -0800] "GET /cgi-bin/ HTTP/1.0" 403 206 "-" "-"
+kitchener-hse-ppp3577578.sympatico.ca riderplastics.com - [01/Jan/2003:22:30:28 -0800] "GET /?N=D HTTP/1.0" 200 802 "-" "-"
+kitchener-hse-ppp3577578.sympatico.ca riderplastics.com - [01/Jan/2003:22:30:30 -0800] "GET /?S=A HTTP/1.0" 200 802 "-" "-"

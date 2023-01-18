@@ -1,0 +1,5 @@
+si520.inktomi.com riderplastics.com - [08/Aug/2002:02:54:25 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+si520.inktomi.com riderplastics.com - [08/Aug/2002:02:54:25 -0700] "GET / HTTP/1.0" 200 802 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+slc-pm11-c4-22.sisna.com riderplastics.com - [08/Aug/2002:06:40:05 -0700] "GET /icons/blank.gif HTTP/1.1" 200 148 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"
+slc-pm11-c4-22.sisna.com riderplastics.com - [08/Aug/2002:06:40:12 -0700] "GET / HTTP/1.1" 200 814 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"
+ip67-89-96-195.z96-89-67.customer.algx.net riderplastics.com - [08/Aug/2002:15:03:15 -0700] "GET /icons/back.gif HTTP/1.1" 200 216 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 5.01; Windows 95)"

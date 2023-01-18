@@ -1,0 +1,6 @@
+crawl8-public.alexa.com riderplastics.com - [11/Oct/2003:11:24:15 -0700] "GET /robots.txt HTTP/1.0" 404 208 "-" "ia_archiver"
+crawl8-public.alexa.com riderplastics.com - [11/Oct/2003:11:24:14 -0700] "GET / HTTP/1.0" 200 603 "-" "ia_archiver"
+egspd404.teoma.com riderplastics.com - [11/Oct/2003:11:41:44 -0700] "GET /robots.txt HTTP/1.0" 404 208 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd404.teoma.com riderplastics.com - [11/Oct/2003:11:42:05 -0700] "GET /urchin/ HTTP/1.0" 200 43521 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd404.teoma.com riderplastics.com - [11/Oct/2003:11:43:02 -0700] "GET /urchin/200310/nav.html HTTP/1.0" 200 1532 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd404.teoma.com riderplastics.com - [11/Oct/2003:11:43:25 -0700] "GET /urchin/200310/welcome.html HTTP/1.0" 200 504 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"

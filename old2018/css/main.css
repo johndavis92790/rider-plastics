@@ -1,0 +1,33 @@
+@import url("common.css");
+
+/* home page */
+#home_pics{
+	height: 271px;
+	margin: 180px 0 0 0;
+}
+#sections ul{
+	margin: 0 0 0 15px;
+}
+	#sections li{
+		float: left;
+		padding: 0 5px;	
+	}
+		#sections li a{
+			color: #999;
+			text-decoration: none;
+		}
+		#sections li a.activeSlide{
+			color: #666;
+		}
+		
+/* our process */
+img.step{
+	margin: 8px 20px 12px 15px;
+	float: left;
+}
+
+/* contact us */
+.half{
+	width: 365px;
+	float: left;
+}

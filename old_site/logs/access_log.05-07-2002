@@ -1,0 +1,7 @@
+ezspider307.directhit.com riderplastics.com - [07/May/2002:09:22:04 -0700] "GET / HTTP/1.0" 200 802 "-" "Mozilla/2.0 (compatible; Ask Jeeves)"
+copilot.thunderstone.com riderplastics.com - [07/May/2002:12:42:15 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/2.0 (compatible; T-H-U-N-D-E-R-S-T-O-N-E)"
+copilot.thunderstone.com riderplastics.com - [07/May/2002:12:42:14 -0700] "GET / HTTP/1.0" 200 802 "-" "Mozilla/2.0 (compatible; T-H-U-N-D-E-R-S-T-O-N-E)"
+copilot.thunderstone.com riderplastics.com - [07/May/2002:12:42:14 -0700] "GET /logs/ HTTP/1.0" 401 397 "-" "Mozilla/2.0 (compatible; T-H-U-N-D-E-R-S-T-O-N-E)"
+copilot.thunderstone.com riderplastics.com - [07/May/2002:12:42:15 -0700] "GET /urchin/200205/nav.html HTTP/1.0" 200 1528 "-" "Mozilla/2.0 (compatible; T-H-U-N-D-E-R-S-T-O-N-E)"
+copilot.thunderstone.com riderplastics.com - [07/May/2002:12:42:15 -0700] "GET /urchin/ HTTP/1.0" 200 42558 "-" "Mozilla/2.0 (compatible; T-H-U-N-D-E-R-S-T-O-N-E)"
+copilot.thunderstone.com riderplastics.com - [07/May/2002:12:42:15 -0700] "GET /urchin/200205/welcome.html HTTP/1.0" 200 504 "-" "Mozilla/2.0 (compatible; T-H-U-N-D-E-R-S-T-O-N-E)"

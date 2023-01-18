@@ -1,0 +1,6 @@
+crawl22-public.alexa.com riderplastics.com - [18/Jul/2003:02:02:38 -0700] "GET /robots.txt HTTP/1.0" 404 208 "-" "ia_archiver"
+crawl22-public.alexa.com riderplastics.com - [18/Jul/2003:02:02:38 -0700] "GET /urchin/200203/200203/platform-tree.html HTTP/1.0" 404 237 "-" "ia_archiver"
+crawl25-public.alexa.com riderplastics.com - [18/Jul/2003:02:06:00 -0700] "GET /robots.txt HTTP/1.0" 404 208 "-" "ia_archiver"
+crawl25-public.alexa.com riderplastics.com - [18/Jul/2003:02:06:00 -0700] "GET /urchin/200203/200203/qreport.html HTTP/1.0" 404 231 "-" "ia_archiver"
+crawl24-public.alexa.com riderplastics.com - [18/Jul/2003:11:52:27 -0700] "GET /robots.txt HTTP/1.0" 404 208 "-" "ia_archiver"
+crawl24-public.alexa.com riderplastics.com - [18/Jul/2003:11:52:27 -0700] "GET /urchin/200203/200203/welcome.html HTTP/1.0" 404 231 "-" "ia_archiver"

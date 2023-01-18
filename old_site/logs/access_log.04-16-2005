@@ -1,0 +1,4 @@
+66-194-6-71.gen.twtelecom.net riderplastics.com - [16/Apr/2005:08:21:27 -0700] "GET / HTTP/1.1" 200 572 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312462)"
+crawl-66-249-71-39.googlebot.com riderplastics.com - [16/Apr/2005:19:15:25 -0700] "GET /robots.txt HTTP/1.0" 404 208 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)"
+crawl-66-249-71-39.googlebot.com riderplastics.com - [16/Apr/2005:19:15:29 -0700] "GET / HTTP/1.0" 200 572 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)"
+crawl-66-249-71-70.googlebot.com riderplastics.com - [16/Apr/2005:23:16:21 -0700] "GET /Contact.htm HTTP/1.0" 200 1155 "-" "Googlebot/2.1 (+http://www.google.com/bot.html)"

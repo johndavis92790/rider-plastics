@@ -1,0 +1,6 @@
+si520.inktomi.com riderplastics.com - [05/Sep/2002:02:54:43 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+si520.inktomi.com riderplastics.com - [05/Sep/2002:02:54:44 -0700] "GET / HTTP/1.0" 200 802 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+63.163.253.31 riderplastics.com - [05/Sep/2002:13:45:14 -0700] "GET / HTTP/1.0" 200 802 "http://www.qwestdex.com/servlet/ActionServlet" "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)"
+63.163.253.31 riderplastics.com - [05/Sep/2002:13:45:14 -0700] "GET /icons/blank.gif HTTP/1.0" 200 148 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)"
+63.163.253.31 riderplastics.com - [05/Sep/2002:13:45:14 -0700] "GET /icons/folder.gif HTTP/1.0" 200 225 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)"
+63.163.253.31 riderplastics.com - [05/Sep/2002:13:45:15 -0700] "GET /icons/back.gif HTTP/1.0" 200 216 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)"

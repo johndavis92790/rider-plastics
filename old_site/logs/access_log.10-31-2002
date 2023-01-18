@@ -1,0 +1,4 @@
+si520.inktomi.com riderplastics.com - [31/Oct/2002:01:55:18 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+si520.inktomi.com riderplastics.com - [31/Oct/2002:01:55:19 -0800] "GET / HTTP/1.0" 200 802 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+si3011.inktomisearch.com riderplastics.com - [31/Oct/2002:12:49:11 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/5.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+68.152.32.167 riderplastics.com - [31/Oct/2002:18:45:11 -0800] "POST /cgi-bin/formmail.pl HTTP/1.1" 404 225 "http://www.riderplastics.com/cgi-bin/formmail.pl" "Microsoft URL Control - 6.00.8862"

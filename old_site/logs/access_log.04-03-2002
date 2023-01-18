@@ -1,0 +1,6 @@
+j3001.inktomi.com riderplastics.com - [03/Apr/2002:11:48:49 -0800] "GET /page4.html HTTP/1.0" 404 204 "-" "Mozilla/5.0 (Slurp/cat; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+212.187.213.175 riderplastics.com - [03/Apr/2002:18:01:19 -0800] "GET / HTTP/1.0" 200 802 "-" "Scooter-ARS-1.1"
+j100.inktomi.com riderplastics.com - [03/Apr/2002:21:00:54 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+j100.inktomi.com riderplastics.com - [03/Apr/2002:21:00:56 -0800] "GET / HTTP/1.0" 200 802 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+si520.inktomi.com riderplastics.com - [03/Apr/2002:22:08:49 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+si520.inktomi.com riderplastics.com - [03/Apr/2002:22:08:49 -0800] "GET / HTTP/1.0" 200 802 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"

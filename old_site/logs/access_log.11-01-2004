@@ -1,0 +1,7 @@
+egspd42470.teoma.com riderplastics.com - [01/Nov/2004:00:36:54 -0800] "GET /IndexA.htm HTTP/1.0" 200 1566 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd42470.teoma.com riderplastics.com - [01/Nov/2004:04:57:28 -0800] "GET /extra_value.htm HTTP/1.0" 200 1461 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd42470.teoma.com riderplastics.com - [01/Nov/2004:10:21:31 -0800] "GET /Rider%20Plastic/ExtraValue.htm HTTP/1.0" 200 349 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd42470.teoma.com riderplastics.com - [01/Nov/2004:10:22:27 -0800] "GET /Rider%20Plastic/new_page_1.htm HTTP/1.0" 200 642 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd42470.teoma.com riderplastics.com - [01/Nov/2004:11:06:44 -0800] "GET /Rider%20Plastic/WhyDoBusiness.htm HTTP/1.0" 200 349 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+66.249.66.99 riderplastics.com - [01/Nov/2004:16:56:30 -0800] "GET /robots.txt HTTP/1.1" 404 208 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.66.99 riderplastics.com - [01/Nov/2004:16:56:31 -0800] "GET / HTTP/1.1" 200 593 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"

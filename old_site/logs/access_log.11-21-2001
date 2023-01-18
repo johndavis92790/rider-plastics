@@ -1,0 +1,6 @@
+trek1.sv.av.com riderplastics.com - [21/Nov/2001:02:49:57 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Scooter-W3-1.0"
+trek1.sv.av.com riderplastics.com - [21/Nov/2001:02:49:57 -0800] "GET /cgi-bin/ HTTP/1.0" 403 206 "-" "Scooter-W3-1.0"
+si4001.inktomi.com riderplastics.com - [21/Nov/2001:21:53:11 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/3.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+si4001.inktomi.com riderplastics.com - [21/Nov/2001:21:53:11 -0800] "GET / HTTP/1.0" 200 802 "-" "Mozilla/3.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+trek1.sv.av.com riderplastics.com - [21/Nov/2001:23:23:39 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Scooter-W3.1.0"
+trek1.sv.av.com riderplastics.com - [21/Nov/2001:23:23:39 -0800] "GET /urchin/ HTTP/1.0" 200 42222 "-" "Scooter-W3.1.0"

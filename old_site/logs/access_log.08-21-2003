@@ -1,0 +1,8 @@
+egspd404.teoma.com riderplastics.com - [21/Aug/2003:00:07:29 -0700] "GET /robots.txt HTTP/1.0" 404 208 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd404.teoma.com riderplastics.com - [21/Aug/2003:00:07:38 -0700] "GET /urchin/ HTTP/1.0" 200 43409 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd404.teoma.com riderplastics.com - [21/Aug/2003:00:08:03 -0700] "GET /urchin/200308/nav.html HTTP/1.0" 200 1531 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd404.teoma.com riderplastics.com - [21/Aug/2003:00:08:13 -0700] "GET /urchin/200308/welcome.html HTTP/1.0" 200 504 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+63.121.41.178 riderplastics.com - [21/Aug/2003:14:12:15 -0700] "GET / HTTP/1.0" 200 603 "-" "Mozilla/4.0 (compatible; MSIE 5.0; www.galaxy.com; www.riderplastics.com; +http://www.galaxy.com/info/crawler.html)"
+63.121.41.178 riderplastics.com - [21/Aug/2003:14:12:15 -0700] "GET /robots.txt HTTP/1.0" 404 208 "-" "Mozilla/4.0 (compatible; MSIE 5.0; www.galaxy.com; www.riderplastics.com; +http://www.galaxy.com/info/crawler.html)"
+63.121.41.179 riderplastics.com - [21/Aug/2003:23:38:50 -0700] "HEAD /urchin/ HTTP/1.0" 200 - "-" "GalaxyBot/1.0 (http://www.galaxy.com/galaxybot.html)"
+63.121.41.179 riderplastics.com - [21/Aug/2003:23:38:52 -0700] "HEAD /cgi-bin/ HTTP/1.0" 403 - "-" "GalaxyBot/1.0 (http://www.galaxy.com/galaxybot.html)"

@@ -1,0 +1,5 @@
+si4000.inktomi.com riderplastics.com - [24/Dec/2001:02:59:29 -0800] "GET / HTTP/1.0" 200 802 "-" "Mozilla/3.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+crawl8-public.alexa.com riderplastics.com - [24/Dec/2001:07:37:29 -0800] "GET /icons/back.gif HTTP/1.0" 200 216 "-" "ia_archiver"
+crawl7-public.alexa.com riderplastics.com - [24/Dec/2001:07:41:28 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "ia_archiver"
+crawl7-public.alexa.com riderplastics.com - [24/Dec/2001:07:41:31 -0800] "GET /icons/blank.gif HTTP/1.0" 200 148 "-" "ia_archiver"
+crawl8-public.alexa.com riderplastics.com - [24/Dec/2001:07:47:18 -0800] "GET /icons/folder.gif HTTP/1.0" 200 225 "-" "ia_archiver"

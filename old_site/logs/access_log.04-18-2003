@@ -1,0 +1,8 @@
+63.148.99.247 riderplastics.com - [18/Apr/2003:02:03:01 -0700] "GET / HTTP/1.0" 200 802 "-" "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)"
+63.148.99.247 riderplastics.com - [18/Apr/2003:02:03:05 -0700] "GET /cgi-bin/ HTTP/1.0" 403 206 "-" "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)"
+63.148.99.247 riderplastics.com - [18/Apr/2003:02:03:08 -0700] "GET /logs/ HTTP/1.0" 401 397 "-" "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)"
+63.148.99.247 riderplastics.com - [18/Apr/2003:02:03:12 -0700] "GET /urchin/ HTTP/1.0" 200 43185 "-" "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)"
+63.148.99.247 riderplastics.com - [18/Apr/2003:02:03:15 -0700] "GET /urchin/200304/nav.html HTTP/1.0" 200 1530 "-" "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)"
+63.148.99.247 riderplastics.com - [18/Apr/2003:02:03:18 -0700] "GET /urchin/200304/welcome.html HTTP/1.0" 200 504 "-" "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)"
+63.148.99.247 riderplastics.com - [18/Apr/2003:02:03:21 -0700] "GET /urchin/javasc HTTP/1.0" 404 207 "-" "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)"
+vries.dnb.domaingo.com riderplastics.com - [18/Apr/2003:11:12:11 -0700] "GET / HTTP/1.0" 200 802 "http://www.netfactual.com/survey/" "-"

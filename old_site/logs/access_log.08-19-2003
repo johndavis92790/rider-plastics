@@ -1,0 +1,6 @@
+63.148.99.253 riderplastics.com - [19/Aug/2003:22:26:49 -0700] "GET / HTTP/1.0" 200 603 "-" "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)"
+63.148.99.253 riderplastics.com - [19/Aug/2003:22:26:54 -0700] "GET /cgi-bin/ HTTP/1.0" 403 210 "-" "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)"
+63.148.99.253 riderplastics.com - [19/Aug/2003:22:26:58 -0700] "GET /urchin/ HTTP/1.0" 200 43409 "-" "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)"
+63.148.99.253 riderplastics.com - [19/Aug/2003:22:27:03 -0700] "GET /urchin/200308/nav.html HTTP/1.0" 200 1531 "-" "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)"
+63.148.99.253 riderplastics.com - [19/Aug/2003:22:27:09 -0700] "GET /urchin/200308/welcome.html HTTP/1.0" 200 504 "-" "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)"
+63.148.99.253 riderplastics.com - [19/Aug/2003:22:27:13 -0700] "GET /urchin/javasc HTTP/1.0" 404 211 "-" "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)"

@@ -1,0 +1,4 @@
+crawl6-public.alexa.com riderplastics.com - [20/Dec/2001:02:04:21 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "ia_archiver"
+si3003.inktomi.com riderplastics.com - [20/Dec/2001:03:53:47 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/3.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+si3003.inktomi.com riderplastics.com - [20/Dec/2001:03:53:47 -0800] "GET / HTTP/1.0" 200 802 "-" "Mozilla/3.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+si520.inktomi.com riderplastics.com - [20/Dec/2001:11:58:01 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"

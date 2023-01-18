@@ -1,0 +1,7 @@
+66.28.250.173 riderplastics.com - [09/Jun/2002:00:43:26 -0700] "GET /urchin/200206/nav.html HTTP/1.0" 200 1529 "-" "ia_archiver"
+66.28.250.173 riderplastics.com - [09/Jun/2002:01:50:59 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "ia_archiver"
+66.28.250.173 riderplastics.com - [09/Jun/2002:01:51:00 -0700] "GET /?N=A HTTP/1.0" 200 802 "-" "ia_archiver"
+66.28.250.176 riderplastics.com - [09/Jun/2002:04:52:19 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "ia_archiver"
+66.28.250.176 riderplastics.com - [09/Jun/2002:04:52:20 -0700] "GET /urchin/+ll+'uicons/'+myimage+'.gif HTTP/1.0" 404 228 "-" "ia_archiver"
+66.28.250.176 riderplastics.com - [09/Jun/2002:05:04:05 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "ia_archiver"
+66.28.250.176 riderplastics.com - [09/Jun/2002:05:14:20 -0700] "GET /urchin/+ll+'uicons/bb'+i+mystatus%5bi%5d+'.gif HTTP/1.0" 404 236 "-" "ia_archiver"

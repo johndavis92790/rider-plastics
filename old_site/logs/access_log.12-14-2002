@@ -1,0 +1,4 @@
+egspd402.directhit.com riderplastics.com - [14/Dec/2002:08:26:15 -0800] "GET / HTTP/1.0" 200 802 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd402.directhit.com riderplastics.com - [14/Dec/2002:08:48:04 -0800] "GET /urchin/ HTTP/1.0" 200 42961 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd402.directhit.com riderplastics.com - [14/Dec/2002:08:48:21 -0800] "GET /urchin/200212/nav.html HTTP/1.0" 200 1533 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd402.directhit.com riderplastics.com - [14/Dec/2002:08:48:29 -0800] "GET /urchin/200212/welcome.html HTTP/1.0" 200 504 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"

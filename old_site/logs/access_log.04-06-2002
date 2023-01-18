@@ -1,0 +1,5 @@
+j3025.inktomi.com riderplastics.com - [06/Apr/2002:09:02:45 -0800] "GET /page6.html HTTP/1.0" 404 204 "-" "Mozilla/5.0 (Slurp/cat; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+si3000.inktomi.com riderplastics.com - [06/Apr/2002:10:32:01 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/3.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+si3000.inktomi.com riderplastics.com - [06/Apr/2002:10:32:02 -0800] "GET / HTTP/1.0" 200 802 "-" "Mozilla/3.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+si3002.inktomi.com riderplastics.com - [06/Apr/2002:11:15:53 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/3.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+si3002.inktomi.com riderplastics.com - [06/Apr/2002:11:15:55 -0800] "GET / HTTP/1.0" 200 802 "-" "Mozilla/3.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"

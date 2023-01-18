@@ -1,0 +1,4 @@
+trek24.sv.av.com riderplastics.com - [25/Jan/2002:18:11:35 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Scooter-W3.1.2"
+trek24.sv.av.com riderplastics.com - [25/Jan/2002:18:11:42 -0800] "GET /page2.html HTTP/1.0" 404 204 "-" "Scooter-W3.1.2"
+trek24.sv.av.com riderplastics.com - [25/Jan/2002:23:22:56 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Scooter-W3.1.2"
+trek24.sv.av.com riderplastics.com - [25/Jan/2002:23:22:56 -0800] "GET /cgi-bin/ HTTP/1.0" 403 206 "-" "Scooter-W3.1.2"

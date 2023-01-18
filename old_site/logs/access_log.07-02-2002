@@ -1,0 +1,5 @@
+buildrack23.sv.av.com riderplastics.com - [02/Jul/2002:18:24:21 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "Scooter-3.2.EX"
+buildrack23.sv.av.com riderplastics.com - [02/Jul/2002:18:24:22 -0700] "GET /urchin/ HTTP/1.0" 200 42614 "-" "Scooter-3.2.EX"
+buildrack23.sv.av.com riderplastics.com - [02/Jul/2002:18:24:22 -0700] "GET /urchin/200206/nav.html HTTP/1.0" 200 1529 "-" "Scooter-3.2.EX"
+buildrack23.sv.av.com riderplastics.com - [02/Jul/2002:18:24:22 -0700] "GET /urchin/200206/welcome.html HTTP/1.0" 200 504 "-" "Scooter-3.2.EX"
+buildrack23.sv.av.com riderplastics.com - [02/Jul/2002:18:24:26 -0700] "GET /urchin/ HTTP/1.0" 200 42614 "-" "Scooter-3.2.EX"

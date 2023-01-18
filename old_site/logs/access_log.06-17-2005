@@ -1,0 +1,6 @@
+59.163.192.7.static.vsnl.net.in riderplastics.com - [17/Jun/2005:06:05:38 -0700] "GET / HTTP/1.1" 200 572 "-" "URL Checker"
+66-194-6-81.gen.twtelecom.net riderplastics.com - [17/Jun/2005:15:46:06 -0700] "GET / HTTP/1.1" 200 572 "-" "Mozilla/5.0 (compatible; Konqueror/3.0-rc2; i686 Linux; 20020927)"
+crawl-66-249-66-162.googlebot.com riderplastics.com - [17/Jun/2005:19:34:21 -0700] "GET /robots.txt HTTP/1.1" 404 208 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+crawl-66-249-66-162.googlebot.com riderplastics.com - [17/Jun/2005:19:34:21 -0700] "GET /why_do_business_with_rider_plast.htm HTTP/1.1" 200 2198 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+crawl-66-249-66-162.googlebot.com riderplastics.com - [17/Jun/2005:21:04:15 -0700] "GET /robots.txt HTTP/1.1" 404 208 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+crawl-66-249-66-162.googlebot.com riderplastics.com - [17/Jun/2005:21:04:15 -0700] "GET /why_do_business_with_rider_plast.htm HTTP/1.1" 200 2198 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"

@@ -1,0 +1,8 @@
+64.210.196.198 riderplastics.com - [29/Aug/2002:00:27:07 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; Girafabot; girafabot at girafa dot com; http://www.girafa.com)"
+64.210.196.198 riderplastics.com - [29/Aug/2002:00:27:11 -0700] "GET / HTTP/1.0" 200 802 "-" "Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; Girafabot; girafabot at girafa dot com; http://www.girafa.com)"
+64.210.196.198 riderplastics.com - [29/Aug/2002:00:27:12 -0700] "GET /icons/back.gif HTTP/1.0" 200 216 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; Girafabot; girafabot at girafa dot com; http://www.girafa.com)"
+64.210.196.198 riderplastics.com - [29/Aug/2002:00:27:12 -0700] "GET /icons/blank.gif HTTP/1.0" 200 148 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; Girafabot; girafabot at girafa dot com; http://www.girafa.com)"
+cust-208-187-204-58.bbsc.net riderplastics.com - [29/Aug/2002:10:34:41 -0700] "GET / HTTP/1.1" 200 814 "http://www.qwestdex.com/servlet/ActionServlet" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"
+cust-208-187-204-58.bbsc.net riderplastics.com - [29/Aug/2002:10:34:41 -0700] "GET /icons/blank.gif HTTP/1.1" 200 148 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"
+cust-208-187-204-58.bbsc.net riderplastics.com - [29/Aug/2002:10:34:41 -0700] "GET /icons/back.gif HTTP/1.1" 200 216 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"
+cust-208-187-204-58.bbsc.net riderplastics.com - [29/Aug/2002:10:34:41 -0700] "GET /icons/folder.gif HTTP/1.1" 200 225 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"

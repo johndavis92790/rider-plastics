@@ -1,0 +1,4 @@
+egspd400.directhit.com riderplastics.com - [10/Dec/2002:02:27:56 -0800] "GET /page4.html HTTP/1.0" 404 204 "-" "Mozilla/2.0 (compatible; Ask Jeeves)"
+crawl2.googlebot.com riderplastics.com - [10/Dec/2002:12:45:16 -0800] "GET /urchin/ HTTP/1.0" 200 42961 "-" "Googlebot/2.1 (+http://www.googlebot.com/bot.html)"
+crawl4.googlebot.com riderplastics.com - [10/Dec/2002:17:00:11 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Googlebot/2.1 (+http://www.googlebot.com/bot.html)"
+crawl4.googlebot.com riderplastics.com - [10/Dec/2002:17:00:11 -0800] "GET /urchin/200212/welcome.html HTTP/1.0" 200 504 "-" "Googlebot/2.1 (+http://www.googlebot.com/bot.html)"

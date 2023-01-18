@@ -1,0 +1,6 @@
+66-194-6-75.gen.twtelecom.net riderplastics.com - [25/Aug/2005:11:16:01 -0700] "GET / HTTP/1.1" 200 572 "-" "Mozilla/5.0 (compatible; Konqueror/3.1-rc6; i686 Linux; 20020506)"
+209-128-119-016.bayarea.net riderplastics.com - [25/Aug/2005:15:55:12 -0700] "GET /robots.txt HTTP/1.0" 404 208 "-" "mozilla/5.0 (compatible; heritrix/1.0.4 +http://innovationblog.com)"
+209-128-119-016.bayarea.net riderplastics.com - [25/Aug/2005:15:55:28 -0700] "GET / HTTP/1.0" 200 572 "-" "mozilla/5.0 (compatible; heritrix/1.0.4 +http://innovationblog.com)"
+209-128-119-016.bayarea.net riderplastics.com - [25/Aug/2005:15:55:43 -0700] "GET /Index.htm HTTP/1.0" 200 1713 "-" "mozilla/5.0 (compatible; heritrix/1.0.4 +http://innovationblog.com)"
+209-128-119-016.bayarea.net riderplastics.com - [25/Aug/2005:15:56:14 -0700] "GET /Contents.htm HTTP/1.0" 200 595 "-" "mozilla/5.0 (compatible; heritrix/1.0.4 +http://innovationblog.com)"
+209-128-119-016.bayarea.net riderplastics.com - [25/Aug/2005:15:56:41 -0700] "GET /_vti_bin/fpcount.exe/?Page=Index.htm%7CImage=3 HTTP/1.0" 200 275 "-" "mozilla/5.0 (compatible; heritrix/1.0.4 +http://innovationblog.com)"

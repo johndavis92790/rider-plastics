@@ -1,0 +1,4 @@
+egspd404.teoma.com riderplastics.com - [11/Dec/2003:12:25:52 -0800] "GET /robots.txt HTTP/1.0" 404 208 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd404.teoma.com riderplastics.com - [11/Dec/2003:12:26:09 -0800] "GET /urchin/ HTTP/1.0" 200 43633 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd404.teoma.com riderplastics.com - [11/Dec/2003:12:26:47 -0800] "GET /urchin/200312/nav.html HTTP/1.0" 200 1533 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd404.teoma.com riderplastics.com - [11/Dec/2003:12:27:05 -0800] "GET /urchin/200312/welcome.html HTTP/1.0" 200 504 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"

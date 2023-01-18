@@ -1,0 +1,4 @@
+crawl8-public.alexa.com riderplastics.com - [16/Oct/2003:00:29:46 -0700] "GET /robots.txt HTTP/1.0" 404 208 "-" "ia_archiver"
+crawl8-public.alexa.com riderplastics.com - [16/Oct/2003:00:29:46 -0700] "GET / HTTP/1.0" 200 603 "-" "ia_archiver"
+si1001.inktomisearch.com riderplastics.com - [16/Oct/2003:23:50:03 -0700] "GET /robots.txt HTTP/1.0" 404 208 "-" "Mozilla/5.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+j3157.inktomisearch.com riderplastics.com - [16/Oct/2003:23:52:06 -0700] "GET /cgi-bin/ HTTP/1.0" 403 210 "-" "Mozilla/5.0 (Slurp/cat; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"

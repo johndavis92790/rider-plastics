@@ -1,0 +1,56 @@
+/* RESETS */
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  vertical-align: baseline;
+}
+a { outline: none; }
+body {
+  line-height: 1;
+  color:#333;
+  font-family:arial, sans-serif;
+  font-size:small;
+}
+strong { color:#111; }
+ol, ul { list-style: none; }
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+}
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+}
+blockquote:before, blockquote:after, q:before, q:after {content: ""; }
+blockquote, q { quotes: "" ""; }
+img { border: 0 }
+
+.hover    { cursor: pointer; }
+.hidden   { display: none; }
+.full	  { width: 100%; }
+.clear    { clear: both; }
+.clear_l  { clear: left;}
+.clear_r  { clear: right;}
+.float_l  { float: left; }
+.float_r  { float: right; }
+.underline{ text-decoration: underline !important; }
+.bold	  { font-weight: bold; }
+.italic	  { font-style: italic; }
+.hr {
+	width:100%;
+	clear:both;
+	border-top:1px solid #ddd;
+	height:1px;
+	overflow:hidden;
+	margin:1em 0;
+}
+.overlabel-wrapper { position:relative;}
+label.overlabel {
+	position:absolute;
+	color:#999;
+	left:1px;
+	top:1px;
+	font-size:11px;
+}

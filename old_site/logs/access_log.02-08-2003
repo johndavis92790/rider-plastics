@@ -1,0 +1,8 @@
+si3007.inktomisearch.com riderplastics.com - [08/Feb/2003:00:05:48 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/5.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+j3111.inktomisearch.com riderplastics.com - [08/Feb/2003:00:05:52 -0800] "GET / HTTP/1.0" 200 802 "-" "Mozilla/5.0 (Slurp/cat; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+si3007.inktomisearch.com riderplastics.com - [08/Feb/2003:03:49:26 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/5.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+j3116.inktomisearch.com riderplastics.com - [08/Feb/2003:03:49:27 -0800] "GET /urchin HTTP/1.0" 301 236 "-" "Mozilla/5.0 (Slurp/cat; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+si3005.inktomisearch.com riderplastics.com - [08/Feb/2003:03:49:27 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/5.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+j3116.inktomisearch.com riderplastics.com - [08/Feb/2003:03:49:33 -0800] "GET /urchin/ HTTP/1.0" 200 43073 "-" "Mozilla/5.0 (Slurp/cat; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+j3116.inktomisearch.com riderplastics.com - [08/Feb/2003:03:49:37 -0800] "GET /urchin/200302/nav.html HTTP/1.0" 200 1533 "-" "Mozilla/5.0 (Slurp/cat; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+j3116.inktomisearch.com riderplastics.com - [08/Feb/2003:03:49:44 -0800] "GET /urchin/200302/welcome.html HTTP/1.0" 200 504 "-" "Mozilla/5.0 (Slurp/cat; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"

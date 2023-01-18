@@ -1,0 +1,3 @@
+j3005.inktomi.com riderplastics.com - [11/Mar/2002:08:41:12 -0800] "GET / HTTP/1.0" 200 802 "-" "Mozilla/5.0 (Slurp/cat; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+pixnat06.whizbang.com riderplastics.com - [11/Mar/2002:22:49:03 -0800] "GET /robots.txt HTTP/1.1" 404 216 "-" "Mozilla/4.7 (compatible; WhizBang)"
+pixnat06.whizbang.com riderplastics.com - [11/Mar/2002:22:49:03 -0800] "GET / HTTP/1.1" 200 814 "-" "Mozilla/4.7 (compatible; WhizBang)"

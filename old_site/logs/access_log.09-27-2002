@@ -1,0 +1,3 @@
+203.200.69.228 riderplastics.com - [27/Sep/2002:07:09:13 -0700] "GET / HTTP/1.0" 200 802 "-" "-"
+203.200.69.228 riderplastics.com - [27/Sep/2002:07:09:14 -0700] "GET /cgi-bin HTTP/1.0" 301 237 "-" "-"
+203.200.69.228 riderplastics.com - [27/Sep/2002:07:09:15 -0700] "GET /cgi-bin/ HTTP/1.0" 403 206 "-" "-"

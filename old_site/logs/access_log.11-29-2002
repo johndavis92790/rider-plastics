@@ -1,0 +1,6 @@
+64.210.196.198 riderplastics.com - [29/Nov/2002:12:58:53 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; Girafabot; girafabot at girafa dot com; http://www.girafa.com)"
+64.210.196.198 riderplastics.com - [29/Nov/2002:12:58:54 -0800] "GET / HTTP/1.0" 200 802 "-" "Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; Girafabot; girafabot at girafa dot com; http://www.girafa.com)"
+64.210.196.198 riderplastics.com - [29/Nov/2002:12:58:54 -0800] "GET /icons/blank.gif HTTP/1.0" 200 148 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; Girafabot; girafabot at girafa dot com; http://www.girafa.com)"
+64.210.196.198 riderplastics.com - [29/Nov/2002:12:58:54 -0800] "GET /icons/back.gif HTTP/1.0" 200 216 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; Girafabot; girafabot at girafa dot com; http://www.girafa.com)"
+64.210.196.198 riderplastics.com - [29/Nov/2002:12:58:55 -0800] "GET /icons/folder.gif HTTP/1.0" 200 225 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; Girafabot; girafabot at girafa dot com; http://www.girafa.com)"
+si3011.inktomisearch.com riderplastics.com - [29/Nov/2002:17:32:44 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/5.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"

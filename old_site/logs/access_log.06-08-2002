@@ -1,0 +1,7 @@
+216.200.130.207 riderplastics.com - [08/Jun/2002:00:30:55 -0700] "GET / HTTP/1.0" 200 802 "-" "Mozilla/2.0 (compatible; Ask Jeeves)"
+66.28.250.171 riderplastics.com - [08/Jun/2002:13:31:17 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "ia_archiver"
+66.28.250.171 riderplastics.com - [08/Jun/2002:13:31:17 -0700] "GET /?D=A HTTP/1.0" 200 802 "-" "ia_archiver"
+66.28.250.172 riderplastics.com - [08/Jun/2002:13:52:14 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "ia_archiver"
+66.28.250.172 riderplastics.com - [08/Jun/2002:13:52:15 -0700] "GET /?S=A HTTP/1.0" 200 802 "-" "ia_archiver"
+66.28.250.173 riderplastics.com - [08/Jun/2002:14:50:11 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "ia_archiver"
+66.28.250.173 riderplastics.com - [08/Jun/2002:14:50:11 -0700] "GET /urchin/ HTTP/1.0" 200 42614 "-" "ia_archiver"

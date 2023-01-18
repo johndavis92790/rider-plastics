@@ -1,0 +1,3 @@
+cl101fwclusterext.infousa.com riderplastics.com - [02/Apr/2005:19:22:18 -0800] "GET / HTTP/1.0" 200 572 "-" "IUSA Browser"
+lj2437.inktomisearch.com riderplastics.com - [02/Apr/2005:20:42:37 -0800] "GET /robots.txt HTTP/1.0" 404 208 "-" "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"
+lj2041.inktomisearch.com riderplastics.com - [02/Apr/2005:20:42:37 -0800] "GET /extra_value.htm HTTP/1.0" 304 0 "-" "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"

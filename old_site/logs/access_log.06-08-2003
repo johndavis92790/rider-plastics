@@ -1,0 +1,8 @@
+si1001.inktomisearch.com riderplastics.com - [08/Jun/2003:05:45:09 -0700] "GET /robots.txt HTTP/1.0" 404 208 "-" "Mozilla/5.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+j3116.inktomisearch.com riderplastics.com - [08/Jun/2003:05:48:00 -0700] "GET /urchin HTTP/1.0" 301 244 "-" "Mozilla/5.0 (Slurp/cat; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+j3116.inktomisearch.com riderplastics.com - [08/Jun/2003:05:50:39 -0700] "GET /urchin/ HTTP/1.0" 200 43297 "-" "Mozilla/5.0 (Slurp/cat; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+j3116.inktomisearch.com riderplastics.com - [08/Jun/2003:05:52:00 -0700] "GET /urchin/200306/nav.html HTTP/1.0" 200 1529 "-" "Mozilla/5.0 (Slurp/cat; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+j3116.inktomisearch.com riderplastics.com - [08/Jun/2003:05:54:29 -0700] "GET /urchin/200306/welcome.html HTTP/1.0" 200 504 "-" "Mozilla/5.0 (Slurp/cat; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+isdn-pool-43.lasvegas.net riderplastics.com - [08/Jun/2003:16:37:05 -0700] "GET / HTTP/1.1" 200 603 "-" "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)"
+isdn-pool-43.lasvegas.net riderplastics.com - [08/Jun/2003:16:37:06 -0700] "GET /cgi-bin/ HTTP/1.1" 403 210 "-" "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)"
+isdn-pool-43.lasvegas.net riderplastics.com - [08/Jun/2003:16:37:06 -0700] "GET /urchin/ HTTP/1.1" 200 43297 "-" "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)"

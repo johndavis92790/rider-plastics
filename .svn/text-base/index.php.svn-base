@@ -1,0 +1,66 @@
+<?php include("inc/doctype.php"); ?>
+<?php include("inc/head.php"); ?>
+<div class="head">
+	<div class="logo"></div> <!-- .logo -->
+	<div class="contact_info">
+		150 West Stratford Ave (2565 South)<br />
+		Salt Lake City, UT 84115-3031<br />
+		<span class="green">801-487-2214</span>
+	</div> <!-- .contact_info -->
+</div> <!-- .head -->
+<div class="wrap">
+	<ul class="nav">
+		<li class="active"><a href="#">home page</a></li>
+		<li><a href="our_process.php">our process</a></li>
+		<!-- <li><a href="#">our products</a></li> -->
+		<li><a href="contact.php">contact us</a></li>
+	</ul> <!-- .nav -->
+	<div class="curve_top"></div>
+	<div class="middle">
+		<div class="content">
+			<div class="holder">
+				<h2>Your Trusted Source for Injection Molding since 1948</h2>
+				<p>
+					This commitment to maintaining strict quality control over each phase of your project, may mean lead time is extended.  In the long-run, this could save you hundreds of hours in frustration and thousands of dollars in costs of poor quality products.
+				</p>
+				<p>
+					Rider Plastics uses the latest versions of Solid Works and SURFCAM to design and digitally machine your mold. Rider Plastics is a member of the Better Business Bureau. 
+				</p>
+				
+				<div id="home_pics">
+					<img src="img/content/prod-1.png" alt="prod one" />
+					<img src="img/content/prod-2.png" alt="prod one" />
+					<img src="img/content/prod-3.png" alt="prod one" />
+					<img src="img/content/prod-4.png" alt="prod one" />
+					<img src="img/content/prod-5.png" alt="prod one" />
+					<img src="img/content/prod-6.png" alt="prod one" />
+				</div> <!-- #home_pics -->
+				<div id="sections">
+					<ul>
+						<li><a href="#">1</a></li>
+						<li><a href="#">2</a></li>
+						<li><a href="#">3</a></li>
+						<li><a href="#">4</a></li>
+						<li><a href="#">5</a></li>
+						<li><a href="#">6</a></li>
+					</ul> <!-- .name -->
+				</div> <!-- #sections -->
+			</div> <!-- .holder -->
+		</div> <!-- .content -->
+	</div> <!-- .middle -->
+	<div class="curve_bottom"></div>
+</div> <!-- .wrap -->
+<div class="footer">
+	<p class="left">
+		<a href="index.php">home page</a> | <a href="our_process.php">our process</a> | <!--<a href="#">our products</a> |--> <a href="contact.php">contact us</a><br /> 
+		<a href="#"><img src="img/content/logo-surfcam.gif" alt="Surfcam" /></a><a href="#"><img src="img/content/logo-solidworks.gif" alt="Solidworks" /></a><br />
+		Mold Designs developed using SURFCAM and SolidWorks
+	</p>
+	<p class="right">
+		&copy; copyright 2009 Rider Plastics
+	</p>
+</div> <!-- .footer -->
+
+
+
+<?php include("inc/foot.php"); ?>

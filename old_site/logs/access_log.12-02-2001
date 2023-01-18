@@ -1,0 +1,4 @@
+wks13.thisonline.com riderplastics.com - [02/Dec/2001:13:15:12 -0800] "HEAD /page6.html HTTP/1.0" 404 0 "-" "Mozilla/2.0 (compatible; Ask Jeeves)"
+216.35.103.79 riderplastics.com - [02/Dec/2001:15:00:48 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/3.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+216.35.103.79 riderplastics.com - [02/Dec/2001:15:00:48 -0800] "GET / HTTP/1.0" 200 802 "-" "Mozilla/3.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+wks13.thisonline.com riderplastics.com - [02/Dec/2001:19:45:40 -0800] "HEAD /page5.html HTTP/1.0" 404 0 "-" "Mozilla/2.0 (compatible; Ask Jeeves)"

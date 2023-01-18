@@ -1,0 +1,8 @@
+208-135-47-6.antelecom.net riderplastics.com - [20/Aug/2002:01:42:07 -0700] "GET / HTTP/1.1" 200 814 "-" "Java1.3.1"
+208-135-47-6.antelecom.net riderplastics.com - [20/Aug/2002:01:42:07 -0700] "GET /logs HTTP/1.1" 401 409 "-" "Java1.3.1"
+208-135-47-6.antelecom.net riderplastics.com - [20/Aug/2002:01:42:07 -0700] "GET /cgi-bin/ HTTP/1.1" 403 218 "-" "Java1.3.1"
+208-135-47-6.antelecom.net riderplastics.com - [20/Aug/2002:01:42:07 -0700] "GET /urchin HTTP/1.1" 301 248 "-" "Java1.3.1"
+208-135-47-6.antelecom.net riderplastics.com - [20/Aug/2002:01:42:07 -0700] "GET /urchin/ HTTP/1.1" 200 42726 "-" "Java1.3.1"
+208-135-47-6.antelecom.net riderplastics.com - [20/Aug/2002:01:42:30 -0700] "GET /200208/welcome.html HTTP/1.1" 404 225 "-" "Java1.3.1"
+208-135-47-6.antelecom.net riderplastics.com - [20/Aug/2002:01:42:31 -0700] "GET /200208/nav.html HTTP/1.1" 404 221 "-" "Java1.3.1"
+j5004.inktomisearch.com riderplastics.com - [20/Aug/2002:12:27:21 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/5.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"

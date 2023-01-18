@@ -1,0 +1,2 @@
+spider06.logika.net riderplastics.com - [09/Feb/2002:01:36:25 -0800] "GET / HTTP/1.0" 200 802 "-" "Mozilla/4.0 (compatible; MSIE 5.0; www.galaxy.com; www.riderplastics.com)"
+spider06.logika.net riderplastics.com - [09/Feb/2002:01:36:26 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/4.0 (compatible; MSIE 5.0; www.galaxy.com; www.riderplastics.com)"

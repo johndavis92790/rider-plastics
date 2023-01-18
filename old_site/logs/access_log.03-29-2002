@@ -1,0 +1,2 @@
+si4002.inktomi.com riderplastics.com - [29/Mar/2002:20:16:44 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/3.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+si4002.inktomi.com riderplastics.com - [29/Mar/2002:20:16:44 -0800] "GET / HTTP/1.0" 200 802 "-" "Mozilla/3.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"

@@ -1,0 +1,3 @@
+cr006r01.sac2.fastsearch.net riderplastics.com - [23/Jun/2002:13:36:52 -0700] "GET / HTTP/1.0" 200 802 "-" "FAST-WebCrawler/3.6 (atw-crawler at fast dot no; http://fast.no/support/crawler.asp)"
+cr006r01.sac2.fastsearch.net riderplastics.com - [23/Jun/2002:13:37:58 -0700] "GET /urchin/200201/welcome.html HTTP/1.0" 304 - "-" "FAST-WebCrawler/3.6 (atw-crawler at fast dot no; http://fast.no/support/crawler.asp)"
+cr006r01.sac2.fastsearch.net riderplastics.com - [23/Jun/2002:13:38:06 -0700] "GET /?N=D HTTP/1.0" 200 802 "-" "FAST-WebCrawler/3.6 (atw-crawler at fast dot no; http://fast.no/support/crawler.asp)"

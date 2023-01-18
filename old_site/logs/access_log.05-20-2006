@@ -1,0 +1,6 @@
+209-128-119-047.bayarea.net riderplastics.com - [20/May/2006:14:26:20 -0700] "GET /robots.txt HTTP/1.0" 404 208 "http://www.riderplastics.com/" "Mozilla/5.0 (compatible; heritrix/1.6.0 +http://innovationblog.com)"
+209-128-119-047.bayarea.net riderplastics.com - [20/May/2006:14:26:25 -0700] "GET / HTTP/1.0" 200 596 "http://plastic.tradeworlds.com/web_category_3931.html" "Mozilla/5.0 (compatible; heritrix/1.6.0 +http://innovationblog.com)"
+209-128-119-047.bayarea.net riderplastics.com - [20/May/2006:14:26:30 -0700] "GET /IndexA.htm HTTP/1.0" 200 1759 "http://www.riderplastics.com/" "Mozilla/5.0 (compatible; heritrix/1.6.0 +http://innovationblog.com)"
+209-128-119-047.bayarea.net riderplastics.com - [20/May/2006:14:26:34 -0700] "GET /Contact.htm HTTP/1.0" 200 1265 "http://www.riderplastics.com/IndexA.htm" "Mozilla/5.0 (compatible; heritrix/1.6.0 +http://innovationblog.com)"
+lj602178.inktomisearch.com riderplastics.com - [20/May/2006:16:58:34 -0700] "GET /robots.txt HTTP/1.0" 404 208 "-" "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"
+lj601211.inktomisearch.com riderplastics.com - [20/May/2006:16:58:41 -0700] "GET /IndexA.htm HTTP/1.0" 304 0 "-" "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"

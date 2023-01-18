@@ -1,0 +1,5 @@
+12-209-191-101.client.attbi.com riderplastics.com - [02/Nov/2003:00:04:01 -0800] "GET / HTTP/1.0" 200 603 "-" "Mozilla/4.8 [en] (Windows NT 5.0; U)"
+12-209-191-101.client.attbi.com riderplastics.com - [02/Nov/2003:00:04:02 -0800] "GET /icons/layout.gif HTTP/1.0" 200 276 "http://www.riderplastics.com/" "Mozilla/4.8 [en] (Windows NT 5.0; U)"
+12-209-191-101.client.attbi.com riderplastics.com - [02/Nov/2003:00:04:02 -0800] "GET /icons/folder.gif HTTP/1.0" 200 225 "http://www.riderplastics.com/" "Mozilla/4.8 [en] (Windows NT 5.0; U)"
+12-209-191-101.client.attbi.com riderplastics.com - [02/Nov/2003:00:04:02 -0800] "GET /icons/blank.gif HTTP/1.0" 200 148 "http://www.riderplastics.com/" "Mozilla/4.8 [en] (Windows NT 5.0; U)"
+mmscrm12-2.sac2.fastsearch.net riderplastics.com - [02/Nov/2003:02:43:18 -0800] "GET /robots.txt HTTP/1.0" 404 208 "-" "FAST-WebCrawler/3.x Multimedia (mm dash crawler at fast dot no)"

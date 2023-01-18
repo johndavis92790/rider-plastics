@@ -1,0 +1,4 @@
+67-42-29-128.slkc.qwest.net riderplastics.com - [02/Jan/2004:05:20:26 -0800] "GET / HTTP/1.0" 200 603 "http://www.qwestdex.com/servlet/ActionServlet?pid=bresults&vertical=&from=&resultform=basic&inRegion=true&state=UT&metro=false&hdg_val=Plastics-Molders%232718%23othr&Submit.x=30&Submit.y=7" "Mozilla/4.77 [en]C-CCK-MCD {U S WEST.net}  (Win95; U)"
+67-42-29-128.slkc.qwest.net riderplastics.com - [02/Jan/2004:05:20:27 -0800] "GET /icons/blank.gif HTTP/1.0" 200 148 "http://www.riderplastics.com/" "Mozilla/4.77 [en]C-CCK-MCD {U S WEST.net}  (Win95; U)"
+67-42-29-128.slkc.qwest.net riderplastics.com - [02/Jan/2004:05:20:27 -0800] "GET /icons/folder.gif HTTP/1.0" 200 225 "http://www.riderplastics.com/" "Mozilla/4.77 [en]C-CCK-MCD {U S WEST.net}  (Win95; U)"
+67-42-29-128.slkc.qwest.net riderplastics.com - [02/Jan/2004:05:20:27 -0800] "GET /icons/layout.gif HTTP/1.0" 200 276 "http://www.riderplastics.com/" "Mozilla/4.77 [en]C-CCK-MCD {U S WEST.net}  (Win95; U)"

@@ -1,0 +1,8 @@
+cr006r01.sac2.fastsearch.net riderplastics.com - [05/Feb/2002:05:08:49 -0800] "GET /logs/ HTTP/1.0" 401 397 "-" "FAST-WebCrawler/3.3 (crawler@fast.no; http://fast.no/support.php?c=faqs/crawler)"
+cf6.onenet.net riderplastics.com - [05/Feb/2002:07:29:53 -0800] "GET /icons/blank.gif HTTP/1.0" 200 148 "-" "Mozilla/3.01 (compatible;)"
+cf6.onenet.net riderplastics.com - [05/Feb/2002:07:29:53 -0800] "GET /icons/back.gif HTTP/1.0" 200 216 "-" "Mozilla/3.01 (compatible;)"
+cf6.onenet.net riderplastics.com - [05/Feb/2002:07:29:54 -0800] "GET /icons/folder.gif HTTP/1.0" 200 225 "-" "Mozilla/3.01 (compatible;)"
+cf6.onenet.net riderplastics.com - [05/Feb/2002:07:29:54 -0800] "GET / HTTP/1.0" 200 802 "-" "Mozilla/3.01 (compatible;)"
+cf4.onenet.net riderplastics.com - [05/Feb/2002:07:29:56 -0800] "GET / HTTP/1.0" 200 802 "http://search.metacrawler.com/crawler?general=Making+Plastic&method=0&domainLimit=0&rpp=30&mrr=0&timeout=0&hpe=30&format=regular&power=1&target=&directhit_attrib=rs&refer=related" "Mozilla/4.0 (compatible; MSIE 5.01; Windows 98)"
+cf4.onenet.net riderplastics.com - [05/Feb/2002:07:29:58 -0800] "GET /icons/blank.gif HTTP/1.0" 404 209 "-" "Mozilla/3.01 (compatible;)"
+cf4.onenet.net riderplastics.com - [05/Feb/2002:07:29:57 -0800] "GET /icons/back.gif HTTP/1.0" 304 - "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 5.01; Windows 98)"

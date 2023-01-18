@@ -1,0 +1,69 @@
+<?php include("inc/doctype.php"); ?>
+<?php include("inc/head.php"); ?>
+<div class="head">
+	<div class="logo"></div> <!-- .logo -->
+	<div class="contact_info">
+		150 West Stratford Ave (2565 South)<br />
+		Salt Lake City, UT 84115-3031<br />
+		<span class="green">801-487-2214</span>
+	</div> <!-- .contact_info -->
+</div> <!-- .head -->
+<div class="wrap">
+	<ul class="nav">
+		<li><a href="index.php">home page</a></li>
+		<li><a href="our_process.php">our process</a></li>
+		<!-- <li><a href="#">our products</a></li> -->
+		<li class="active"><a href="contact.php">contact us</a></li>
+	</ul> <!-- .nav -->
+	<div class="curve_top"></div>
+	<div class="middle">
+		<div class="content">
+			<div class="holder">
+				<div class="half">
+					<h2>Address:</h2>
+					<p>
+						150 West Stratford Ave (2565 South)<br />
+	      	  Salt Lake City, UT 84115-3031
+					</p>
+        	
+					<h2>Phone:</h2>
+					<p>801-487-2214</p>
+					
+					<h2>Fax:</h2>
+					<p>801-487-2791</p>
+        	
+					<h2>Employees:</h2>
+					<p>
+						Kevin Rider, President<br /><a href="mailto:kevin@riderplastics.com">kevin@riderplastics.com</a><br /><br />
+						Chris Maughan, Office Manager<br /><a href="mailto:chris@riderplastics.com">chris@riderplastics.com</a><br /><br />
+						Terry Lewis, Vice-President &amp; Mold Designer<br /><a href="mailto:terry@riderplastics.com">terry@riderplastics.com</a><br /><br />
+						Colby Rider, Purchasing Agent<br /><a href="mailto:colby@riderplastics.com">colby@riderplastics.com</a><br />
+					</p>
+					<img src="img/content/building.png" alt="building" />
+				</div>
+				<div class="half">
+					<h2>History</h2>
+					<p>Right after WWII Rowland Rider had heard about a new thing called “plastic.” Rowland knew a guy who wanted to make tile for bathrooms out of this new material. Rowland and Romania Rider and their sons Max and Burt Rider all mortgaged their homes and bought a small injection molding machine. The Rider Engineering and Plastic Company occupied a building was on West Temple and 21st South in Salt Lake City. Soon enough, JB Tile had installed several of these new tiles into homes in the Rose Park, Glendale and Sugar House areas. Increasing numbers of people began to discover plastic and its wide use soon put Rider Engineering and Plastic Company into full swing. With a bigger customer base, Rider Engineering and Plastics expanded to its current location in 1966 and changed the name to Rider Plastics Incorporated. The company is currently run by Max Riders son, Kevin Rider, who started working at the company in 1964.</p>
+				</div>
+				
+			</div> <!-- .holder -->
+			
+		</div> <!-- .content -->
+	</div> <!-- .middle -->
+<div class="curve_bottom"></div>
+</div> <!-- .wrap -->
+<div class="footer">
+<p class="left">
+<a href="index.php">home page</a> | <a href="our_process.php">our process</a> | <!-- <a href="#">our products</a> |--> <a href="contact.php">contact us</a> 
+<br />
+<a href="#"><img src="img/content/logo-surfcam.gif" alt="Surfcam" /></a><a href="#"><img src="img/content/logo-solidworks.gif" alt="Solidworks" /></a><br />
+Mold Designs developed using SURFCAM and SolidWorks
+</p>
+<p class="right">
+&copy; copyright 2009 Rider Plastics
+</p>
+</div> <!-- .footer -->
+
+
+
+<?php include("inc/foot.php"); ?>

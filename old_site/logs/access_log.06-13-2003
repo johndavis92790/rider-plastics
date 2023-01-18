@@ -1,0 +1,2 @@
+crawler12.googlebot.com riderplastics.com - [13/Jun/2003:05:38:34 -0700] "GET /robots.txt HTTP/1.0" 404 208 "-" "Googlebot/2.1 (+http://www.googlebot.com/bot.html)"
+crawler12.googlebot.com riderplastics.com - [13/Jun/2003:05:38:38 -0700] "GET / HTTP/1.0" 200 603 "-" "Googlebot/2.1 (+http://www.googlebot.com/bot.html)"

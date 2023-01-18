@@ -1,0 +1,8 @@
+226.salt-lake-city-03-04rs.ut.dial-access.att.net riderplastics.com - [09/Nov/2001:14:35:41 -0800] "GET / HTTP/1.1" 200 814 "-" "Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90; AT&T CSM6.0)"
+226.salt-lake-city-03-04rs.ut.dial-access.att.net riderplastics.com - [09/Nov/2001:14:35:42 -0800] "GET /icons/blank.gif HTTP/1.1" 200 148 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90; AT&T CSM6.0)"
+226.salt-lake-city-03-04rs.ut.dial-access.att.net riderplastics.com - [09/Nov/2001:14:35:42 -0800] "GET /icons/back.gif HTTP/1.1" 200 216 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90; AT&T CSM6.0)"
+226.salt-lake-city-03-04rs.ut.dial-access.att.net riderplastics.com - [09/Nov/2001:14:35:42 -0800] "GET /icons/folder.gif HTTP/1.1" 200 225 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90; AT&T CSM6.0)"
+212.187.213.171 riderplastics.com - [09/Nov/2001:18:16:01 -0800] "GET / HTTP/1.0" 200 802 "-" "Scooter-ARS-1.1-ih"
+216.35.103.79 riderplastics.com - [09/Nov/2001:19:07:05 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/3.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+216.35.103.79 riderplastics.com - [09/Nov/2001:19:07:04 -0800] "GET / HTTP/1.0" 200 802 "-" "Mozilla/3.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+216.231.10.198 riderplastics.com - [09/Nov/2001:21:55:47 -0800] "GET / HTTP/1.0" 200 802 "" "Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt)"

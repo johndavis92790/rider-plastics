@@ -1,0 +1,4 @@
+crawl7.googlebot.com riderplastics.com - [09/Dec/2002:08:28:19 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Googlebot/2.1 (+http://www.googlebot.com/bot.html)"
+crawl7.googlebot.com riderplastics.com - [09/Dec/2002:08:28:22 -0800] "GET /logs/ HTTP/1.0" 401 397 "-" "Googlebot/2.1 (+http://www.googlebot.com/bot.html)"
+wm3018.inktomisearch.com riderplastics.com - [09/Dec/2002:09:46:36 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/5.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+crawl5.googlebot.com riderplastics.com - [09/Dec/2002:20:43:35 -0800] "GET /cgi-bin/ HTTP/1.0" 403 206 "-" "Googlebot/2.1 (+http://www.googlebot.com/bot.html)"

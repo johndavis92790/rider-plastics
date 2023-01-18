@@ -1,0 +1,6 @@
+si520.inktomi.com riderplastics.com - [15/Aug/2002:02:54:27 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+si520.inktomi.com riderplastics.com - [15/Aug/2002:02:54:29 -0700] "GET / HTTP/1.0" 200 802 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+c7pub-216-250-141-186.center7.com riderplastics.com - [15/Aug/2002:10:48:25 -0700] "GET /page3.html HTTP/1.0" 404 204 "-" "ah-ha.com crawler (crawler@ah-ha.com)"
+c7pub-216-250-141-186.center7.com riderplastics.com - [15/Aug/2002:12:22:28 -0700] "GET /index.html HTTP/1.0" 404 204 "-" "ah-ha.com crawler (crawler@ah-ha.com)"
+c7pub-216-250-141-186.center7.com riderplastics.com - [15/Aug/2002:17:56:03 -0700] "GET /page5.html HTTP/1.0" 404 204 "-" "ah-ha.com crawler (crawler@ah-ha.com)"
+c7pub-216-250-141-186.center7.com riderplastics.com - [15/Aug/2002:20:58:24 -0700] "GET /page4.html HTTP/1.0" 404 204 "-" "ah-ha.com crawler (crawler@ah-ha.com)"

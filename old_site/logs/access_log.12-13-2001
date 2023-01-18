@@ -1,0 +1,3 @@
+hsc138-21.med.utah.edu riderplastics.com - [13/Dec/2001:11:02:53 -0800] "GET /icons/back.gif HTTP/1.1" 200 216 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 5.0; Windows 95; HSCIE4.01-32-3241998; DigExt)"
+hsc138-21.med.utah.edu riderplastics.com - [13/Dec/2001:11:02:53 -0800] "GET /icons/folder.gif HTTP/1.1" 200 225 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 5.0; Windows 95; HSCIE4.01-32-3241998; DigExt)"
+209.67.206.133 riderplastics.com - [13/Dec/2001:11:59:42 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"

@@ -1,0 +1,4 @@
+216.145.5.42 riderplastics.com - [22/May/2006:05:44:55 -0700] "GET /robots.txt HTTP/1.0" 404 208 "http://www.whois.sc/" "SurveyBot/2.3 (Whois Source)"
+216.145.5.42 riderplastics.com - [22/May/2006:05:44:55 -0700] "GET / HTTP/1.1" 206 596 "http://www.whois.sc/riderplastics.com" "SurveyBot/2.3 (Whois Source)"
+69-167-234-90.miamfl.adelphia.net riderplastics.com - [22/May/2006:14:56:26 -0700] "GET /robots.txt HTTP/1.1" 404 208 "-" "MJ12bot/v1.0.7 (http://majestic12.co.uk/bot.php?+)"
+69-167-234-90.miamfl.adelphia.net riderplastics.com - [22/May/2006:14:56:26 -0700] "GET / HTTP/1.1" 200 596 "-" "MJ12bot/v1.0.7 (http://majestic12.co.uk/bot.php?+)"

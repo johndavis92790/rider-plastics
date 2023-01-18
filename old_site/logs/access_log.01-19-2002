@@ -1,0 +1,3 @@
+ezspider420.directhit.com riderplastics.com - [19/Jan/2002:01:12:10 -0800] "GET /page6.html HTTP/1.0" 404 204 "-" "Mozilla/2.0 (compatible; Ask Jeeves)"
+216.35.103.79 riderplastics.com - [19/Jan/2002:06:16:52 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/3.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+216.35.103.79 riderplastics.com - [19/Jan/2002:06:16:53 -0800] "GET / HTTP/1.0" 200 802 "-" "Mozilla/3.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"

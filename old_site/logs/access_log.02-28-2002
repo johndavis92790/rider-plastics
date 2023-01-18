@@ -1,0 +1,7 @@
+cradossk.domaingo.com riderplastics.com - [28/Feb/2002:07:39:17 -0800] "GET / HTTP/1.0" 200 802 "http://www.netfactual.com/" "-"
+si520.inktomi.com riderplastics.com - [28/Feb/2002:12:12:19 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+si520.inktomi.com riderplastics.com - [28/Feb/2002:12:12:21 -0800] "GET / HTTP/1.0" 200 802 "-" "Slurp/si (slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+max4p140d.smart.net riderplastics.com - [28/Feb/2002:13:52:47 -0800] "GET / HTTP/1.0" 200 802 "-" "Mozilla/4.6 [en] (Win98; I)"
+max4p140d.smart.net riderplastics.com - [28/Feb/2002:13:52:47 -0800] "GET /icons/blank.gif HTTP/1.0" 200 148 "http://www.riderplastics.com/" "Mozilla/4.6 [en] (Win98; I)"
+max4p140d.smart.net riderplastics.com - [28/Feb/2002:13:52:48 -0800] "GET /icons/back.gif HTTP/1.0" 200 216 "http://www.riderplastics.com/" "Mozilla/4.6 [en] (Win98; I)"
+si4002.inktomi.com riderplastics.com - [28/Feb/2002:21:46:01 -0800] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/3.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"

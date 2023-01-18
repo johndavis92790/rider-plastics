@@ -1,0 +1,3 @@
+209.152.137.11 riderplastics.com - [14/Oct/2003:02:18:16 -0700] "HEAD / HTTP/1.1" 200 - "http://www.asitelist.com" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"
+si1001.inktomisearch.com riderplastics.com - [14/Oct/2003:17:07:19 -0700] "GET /robots.txt HTTP/1.0" 404 208 "-" "Mozilla/5.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"
+j3119.inktomisearch.com riderplastics.com - [14/Oct/2003:17:07:30 -0700] "GET /logs HTTP/1.0" 401 401 "-" "Mozilla/5.0 (Slurp/cat; slurp@inktomi.com; http://www.inktomi.com/slurp.html)"

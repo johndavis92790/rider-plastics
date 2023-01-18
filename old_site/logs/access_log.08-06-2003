@@ -1,0 +1,6 @@
+crawl8-public.alexa.com riderplastics.com - [06/Aug/2003:07:02:23 -0700] "GET /robots.txt HTTP/1.0" 404 208 "-" "ia_archiver"
+crawl8-public.alexa.com riderplastics.com - [06/Aug/2003:07:02:22 -0700] "GET / HTTP/1.0" 200 603 "-" "ia_archiver"
+h-69-3-78-160.dnvtco56.covad.net riderplastics.com - [06/Aug/2003:20:19:21 -0700] "GET /robots.txt HTTP/1.1" 404 208 "-" "semanticdiscovery/0.2(http://www.semanticdiscovery.com/sd/robot.html)"
+h-69-3-78-160.dnvtco56.covad.net riderplastics.com - [06/Aug/2003:20:19:27 -0700] "GET / HTTP/1.1" 206 603 "-" "semanticdiscovery/0.2(http://www.semanticdiscovery.com/sd/robot.html)"
+h-69-3-78-160.dnvtco56.covad.net riderplastics.com - [06/Aug/2003:23:32:56 -0700] "GET /robots.txt HTTP/1.1" 404 208 "-" "semanticdiscovery/0.2(http://www.semanticdiscovery.com/sd/robot.html)"
+h-69-3-78-160.dnvtco56.covad.net riderplastics.com - [06/Aug/2003:23:32:59 -0700] "GET /cgi-bin/ HTTP/1.1" 403 210 "-" "semanticdiscovery/0.2(http://www.semanticdiscovery.com/sd/robot.html)"

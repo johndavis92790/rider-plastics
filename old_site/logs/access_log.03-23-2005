@@ -1,0 +1,5 @@
+82.152.156.225 riderplastics.com - [23/Mar/2005:00:36:32 -0800] "HEAD /robots.txt HTTP/1.1" 404 - "-" "MJ12bot/v0.9.0 (http://majestic12.co.uk/bot.php?+)"
+82.152.156.225 riderplastics.com - [23/Mar/2005:00:36:34 -0800] "GET /Contact.htm HTTP/1.1" 200 1155 "-" "MJ12bot/v0.9.0 (http://majestic12.co.uk/bot.php?+)"
+82.152.156.225 riderplastics.com - [23/Mar/2005:00:36:45 -0800] "GET /extra_value.htm HTTP/1.1" 200 1461 "-" "MJ12bot/v0.9.0 (http://majestic12.co.uk/bot.php?+)"
+82.152.156.225 riderplastics.com - [23/Mar/2005:00:36:49 -0800] "GET /Index.htm HTTP/1.1" 200 1565 "-" "MJ12bot/v0.9.0 (http://majestic12.co.uk/bot.php?+)"
+82.152.156.225 riderplastics.com - [23/Mar/2005:00:36:53 -0800] "GET /why_do_business_with_rider_plast.htm HTTP/1.1" 200 2198 "-" "MJ12bot/v0.9.0 (http://majestic12.co.uk/bot.php?+)"

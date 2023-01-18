@@ -1,0 +1,2 @@
+egspd400.directhit.com riderplastics.com - [16/Nov/2002:09:35:15 -0800] "GET / HTTP/1.0" 200 802 "-" "Mozilla/2.0 (compatible; Ask Jeeves)"
+egspd400.directhit.com riderplastics.com - [16/Nov/2002:09:38:54 -0800] "GET /page4.html HTTP/1.0" 404 204 "-" "Mozilla/2.0 (compatible; Ask Jeeves)"

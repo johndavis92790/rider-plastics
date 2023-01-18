@@ -1,0 +1,5 @@
+66-197-158-245.hostnoc.net riderplastics.com - [16/Feb/2008:02:23:35 -0800] "GET / HTTP/1.1" 200 612 "http://germany.makaka.eu/" "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.7) Gecko/20070914 Firefox/2.0.0.7"
+crawl-66-249-70-235.googlebot.com riderplastics.com - [16/Feb/2008:09:14:22 -0800] "GET /robots.txt HTTP/1.1" 404 208 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+crawl-66-249-70-235.googlebot.com riderplastics.com - [16/Feb/2008:09:14:22 -0800] "GET / HTTP/1.1" 200 612 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+crawler200.ask.com riderplastics.com - [16/Feb/2008:18:13:49 -0800] "GET /robots.txt HTTP/1.1" 404 208 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+crawler200.ask.com riderplastics.com - [16/Feb/2008:18:13:49 -0800] "GET / HTTP/1.1" 200 612 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"

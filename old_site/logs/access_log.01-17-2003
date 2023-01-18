@@ -1,0 +1,8 @@
+egspd402.directhit.com riderplastics.com - [17/Jan/2003:06:05:26 -0800] "GET /cgi-bin/ HTTP/1.0" 403 206 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd402.directhit.com riderplastics.com - [17/Jan/2003:06:06:42 -0800] "GET /logs/ HTTP/1.0" 401 397 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd402.directhit.com riderplastics.com - [17/Jan/2003:06:07:54 -0800] "GET /index.html HTTP/1.0" 404 204 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd402.directhit.com riderplastics.com - [17/Jan/2003:06:09:07 -0800] "GET /page6.html HTTP/1.0" 404 204 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd402.directhit.com riderplastics.com - [17/Jan/2003:06:10:22 -0800] "GET /page5.html HTTP/1.0" 404 204 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd402.directhit.com riderplastics.com - [17/Jan/2003:06:11:39 -0800] "GET /page3.html HTTP/1.0" 404 204 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd402.directhit.com riderplastics.com - [17/Jan/2003:06:12:50 -0800] "GET /page2.html HTTP/1.0" 404 204 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"
+egspd402.directhit.com riderplastics.com - [17/Jan/2003:06:14:01 -0800] "GET /page4.html HTTP/1.0" 404 204 "-" "Mozilla/2.0 (compatible; Ask Jeeves/Teoma)"

@@ -1,0 +1,3 @@
+216.145.5.42 riderplastics.com - [12/Sep/2005:03:59:32 -0700] "GET /robots.txt HTTP/1.1" 404 208 "http://www.whois.sc/" "SurveyBot/2.3 (Whois Source)"
+216.145.5.42 riderplastics.com - [12/Sep/2005:03:59:32 -0700] "GET / HTTP/1.1" 206 572 "http://www.whois.sc/riderplastics.com" "SurveyBot/2.3 (Whois Source)"
+66-194-6-80.gen.twtelecom.net riderplastics.com - [12/Sep/2005:09:56:11 -0700] "GET / HTTP/1.1" 200 572 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312463)"

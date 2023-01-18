@@ -1,0 +1,4 @@
+sem4.mse.utah.edu riderplastics.com - [22/Oct/2002:12:58:10 -0700] "GET / HTTP/1.0" 200 802 "http://www.careersearch.net/utah/pick.mpl?uid=29786&r=43167&action=company_info&cnt=6" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0)"
+sem4.mse.utah.edu riderplastics.com - [22/Oct/2002:12:58:10 -0700] "GET /icons/blank.gif HTTP/1.0" 200 148 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0)"
+sem4.mse.utah.edu riderplastics.com - [22/Oct/2002:12:58:10 -0700] "GET /icons/folder.gif HTTP/1.0" 200 225 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0)"
+sem4.mse.utah.edu riderplastics.com - [22/Oct/2002:12:58:10 -0700] "GET /icons/back.gif HTTP/1.0" 200 216 "http://www.riderplastics.com/" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0)"
