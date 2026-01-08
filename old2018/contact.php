@@ -78,9 +78,7 @@
 					<p>
 						Kevin Rider, President<br /><a href="mailto:kevin@riderplastics.com">kevin@riderplastics.com</a><br /><br />
 						Chris Maughan, Office Manager<br /><a href="mailto:chris@riderplastics.com">chris@riderplastics.com</a><br /><br />
-Boyd Rhoades, Mold Designer<br /><a href="mailto:boydr@riderplastics.com">boydr@riderplastics.com</a><br /><br />
-						
-						Colby Rider, Purchasing Agent<br /><a href="mailto:colby@riderplastics.com">colby@riderplastics.com</a><br />
+Tyler Hill, Mold Designer<br /><a href="mailto:sales@riderplastics.com">sales@riderplastics.com</a><br /><br />
 					</p>
 					<img src="img/content/building.png" alt="building" />
 				</div>
